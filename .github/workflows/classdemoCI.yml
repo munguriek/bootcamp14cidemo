@@ -1,0 +1,7 @@
+name: Bootcamp 14 workflow
+on: 
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
